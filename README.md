@@ -1,2 +1,11 @@
-# majorassigment
-first git hub code
+# include<iostream>
+using namespace std;
+
+
+
+int main()
+{
+cout<<"github project";
+
+return 0;
+}
